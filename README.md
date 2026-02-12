@@ -1,3 +1,27 @@
-# customer_behavior_analysis
+📊 Customer Behavior Analytics
+Turning raw data into strategic insights
+🚀 Project Overview
 
-Comprehensive data analytics project focused on understanding customer behavior patterns and generating actionable business insights. Developed using Python for data cleaning and exploratory analysis, SQL for efficient data extraction and transformation, and Power BI for interactive dashboards and data visualization. The project highlights skills in data manipulation, statistical analysis, and translating complex datasets into strategic insights that support data-driven decision-making.
+This project explores customer behavior patterns to uncover actionable insights that support data-driven decision-making.
+
+Using a complete data analytics workflow — from data extraction to visualization — this analysis demonstrates how raw customer data can be transformed into meaningful business intelligence.
+
+The goal is to answer questions such as:
+
+Who are the most valuable customers?
+
+What patterns drive purchasing behavior?
+
+How can segmentation improve marketing strategies?
+
+What metrics should businesses monitor to optimize growth?
+
+🛠 Tech Stack
+
+This project was built using a modern data analytics stack:
+
+Python → Data cleaning, preprocessing, and exploratory data analysis (EDA)
+
+SQL → Data extraction, querying, and transformation
+
+Power BI → Interactive dashboards and business-oriented visualizations
